@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* Resources📘
+ [Rails Routing](https://guides.rubyonrails.org/routing.html#the-purpose-of-the-rails-router)
+ [Chrome extentions](https://www.youtube.com/watch?t=886&v=Q-BpqyOT3a8&feature=youtu.be)
+
+  
